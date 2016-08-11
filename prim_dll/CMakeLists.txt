@@ -1,0 +1,7 @@
+cmake_minimum_required (VERSION 2.6)
+SET (name Prim)
+SET (sources main.cpp vertex.cpp graphmanager.cpp edge.cpp graph.cpp prim_algorithm.cpp)
+SET (headers main.h graph.h graphmanager.h vertex.h edge.h prim_algorithm.h compare_edges.h)
+add_definitions(-DBUILD_DLL)
+project (${name})
+add_library (${name} SHARED ${sources} ${headers})

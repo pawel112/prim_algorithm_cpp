@@ -1,0 +1,16 @@
+Input_file:
+The_first_number_of_vertex The_second_number_of_vertex Cost
+The_first_number_of_vertex The_second_number_of_vertex Cost
+The_first_number_of_vertex The_second_number_of_vertex Cost
+The_first_number_of_vertex The_second_number_of_vertex Cost
+
+The program does not require starting the vertex from number 0.
+
+
+Output file:
+The_first_number_of_vertex The_second_number_of_vertex Cost
+The_first_number_of_vertex The_second_number_of_vertex Cost
+The_first_number_of_vertex The_second_number_of_vertex Cost
+The_first_number_of_vertex The_second_number_of_vertex Cost
+Final cost
+String: MST (Minimum spanning tree) or MSF (Minimum spanning forest)
